@@ -1,0 +1,7 @@
+hours_studied,attendance,practice_tests,sleep_hours,study_method,predicted_passed,outcome,pass_probability
+8.5,90,4,7.5,group,1,Pass,0.8437
+2.1,60,1,5.0,self,0,Fail,0.0504
+5.5,78,3,6.8,video,1,Pass,0.74
+7.0,85,5,8.0,self,1,Pass,0.8763
+1.5,55,0,6.0,video,0,Fail,0.105
+4.8,70,2,7.2,group,1,Pass,0.6048

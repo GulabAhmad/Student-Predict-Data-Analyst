@@ -1,0 +1,57 @@
+hours_studied,attendance,practice_tests,sleep_hours,study_method,actual_passed,predicted_passed,predicted_prob,error_type
+7.6,88,0,5.0,group,0,1,0.6311,"False Positive (Predicted Pass, Actually Failed)"
+2.9,89,6,8.5,video,1,0,0.2022,"False Negative (Predicted Fail, Actually Passed)"
+5.0,80,3,4.7,self,1,1,0.6829,Correct
+7.4,80,3,5.1,group,1,1,0.7823,Correct
+4.0,63,4,7.2,video,0,0,0.0939,Correct
+1.9,56,2,5.2,self,0,0,0.0939,Correct
+0.9,61,3,8.5,self,0,0,0.0522,Correct
+6.3,96,5,8.2,group,1,1,0.9239,Correct
+1.4,57,2,8.4,video,0,0,0.0523,Correct
+4.4,57,0,7.3,self,0,0,0.0814,Correct
+4.4,74,2,7.3,video,0,0,0.2238,Correct
+4.9,54,6,8.1,self,1,1,0.605,Correct
+9.1,82,4,5.4,video,1,1,0.8239,Correct
+7.2,59,2,5.2,video,0,0,0.4464,Correct
+7.5,81,2,5.5,group,1,1,0.7714,Correct
+6.2,76,5,7.1,self,1,1,0.8118,Correct
+2.1,67,2,8.5,group,0,0,0.1002,Correct
+7.4,54,5,8.1,self,1,1,0.6182,Correct
+4.4,61,0,6.0,video,0,0,0.1638,Correct
+6.4,76,5,8.5,self,0,1,0.7906,"False Positive (Predicted Pass, Actually Failed)"
+8.0,93,0,5.7,self,1,1,0.5202,Correct
+3.9,67,6,4.9,video,0,0,0.1897,Correct
+7.0,88,0,6.2,self,0,0,0.4613,Correct
+7.0,89,3,8.2,self,0,1,0.7961,"False Positive (Predicted Pass, Actually Failed)"
+5.9,65,6,7.9,self,1,1,0.5711,Correct
+5.5,65,2,5.0,self,0,0,0.3572,Correct
+5.5,99,5,7.0,group,1,1,0.9064,Correct
+1.6,79,4,5.6,self,0,0,0.1361,Correct
+5.0,76,4,6.3,video,0,1,0.7604,"False Positive (Predicted Pass, Actually Failed)"
+3.9,89,6,8.4,video,1,0,0.3109,"False Negative (Predicted Fail, Actually Passed)"
+1.7,73,4,4.8,self,0,0,0.1118,Correct
+6.5,59,4,7.7,self,1,1,0.5398,Correct
+1.3,73,5,5.2,self,0,0,0.1604,Correct
+5.9,73,4,5.8,self,0,1,0.7112,"False Positive (Predicted Pass, Actually Failed)"
+1.6,70,5,7.8,group,0,0,0.153,Correct
+8.7,59,5,7.8,group,1,1,0.794,Correct
+4.4,99,1,6.3,self,1,0,0.2661,"False Negative (Predicted Fail, Actually Passed)"
+8.4,80,0,6.9,group,1,1,0.6437,Correct
+8.2,63,1,5.2,group,1,1,0.5286,Correct
+6.5,86,4,6.2,video,1,1,0.8105,Correct
+0.7,84,4,8.9,self,0,0,0.1253,Correct
+2.5,66,2,6.3,self,0,0,0.059,Correct
+1.9,89,4,5.5,video,0,0,0.1812,Correct
+3.6,95,5,7.5,video,0,0,0.3946,Correct
+6.6,62,4,6.6,self,1,1,0.5056,Correct
+6.6,63,0,5.0,video,0,0,0.31,Correct
+8.0,58,5,4.9,group,1,1,0.8261,Correct
+3.9,83,1,6.3,video,0,0,0.2321,Correct
+2.1,59,3,4.6,self,0,0,0.1658,Correct
+4.7,67,2,8.7,self,0,0,0.3381,Correct
+1.9,65,4,6.5,group,0,0,0.0804,Correct
+7.2,62,6,8.5,self,1,1,0.5595,Correct
+4.1,77,2,7.0,group,1,0,0.2214,"False Negative (Predicted Fail, Actually Passed)"
+4.4,96,4,4.5,video,0,0,0.3994,Correct
+4.2,100,3,8.3,self,1,0,0.32,"False Negative (Predicted Fail, Actually Passed)"
+8.8,59,2,8.8,self,1,1,0.5671,Correct
